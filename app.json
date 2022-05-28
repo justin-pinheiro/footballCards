@@ -1,0 +1,6 @@
+{
+    "name": "Football cards game",
+    "description": "A multiplayer football game",
+    "repository": "https://github.com/justin-pinheiro/footballCards",
+    "keywords": ["node", "express"]
+  }

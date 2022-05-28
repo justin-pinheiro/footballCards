@@ -14,10 +14,8 @@ app.set('view engine', 'ejs')
 
 const users = require('./models/users.json')
 
-
 app.get('/', (req, res) => {
     res.render('index.ejs')
 })
-
 
 app.listen(3000)
